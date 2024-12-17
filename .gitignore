@@ -1,0 +1,6 @@
+build/
+dist/
+recorded/
+myenv/
+dialog.txt
+main.spec
