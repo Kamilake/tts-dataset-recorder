@@ -1,5 +1,7 @@
 # TTS 데이터셋 생성기
 
+# [다운로드](https://github.com/Kamilake/tts-dataset-recorder/releases/tag/1.0)
+
 ![image](https://github.com/user-attachments/assets/38bb52a6-e1ab-4698-95fb-d8268c1c260d)
 
 ### 입출력
